@@ -3348,15 +3348,20 @@ nav ul a span.badge {
   width: 90%;
 }
 
+@media only screen and (min-width: 300px) {
+
+}
+
+
 @media only screen and (min-width: 601px) {
   .container {
-    width: 85%;
-  }
+/*    width: 85%;
+*/  }
 }
 
 @media only screen and (min-width: 993px) {
   .container {
-    width: 70%;
+    /*width: 70%;*/
   }
 }
 
@@ -4524,133 +4529,133 @@ small {
 
 @media only screen and (min-width: 360px) {
   .flow-text {
-    font-size: 1.2rem;
+    font-size: 2.2rem;
   }
 }
 
 @media only screen and (min-width: 390px) {
   .flow-text {
-    font-size: 1.224rem;
+    font-size: 2.224rem;
   }
 }
 
 @media only screen and (min-width: 420px) {
   .flow-text {
-    font-size: 1.248rem;
+    font-size: 2.248rem;
   }
 }
 
 @media only screen and (min-width: 450px) {
   .flow-text {
-    font-size: 1.272rem;
+    font-size: 2.272rem;
   }
 }
 
 @media only screen and (min-width: 480px) {
   .flow-text {
-    font-size: 1.296rem;
+    font-size: 2.296rem;
   }
 }
 
 @media only screen and (min-width: 510px) {
   .flow-text {
-    font-size: 1.32rem;
+    font-size: 2.32rem;
   }
 }
 
 @media only screen and (min-width: 540px) {
   .flow-text {
-    font-size: 1.344rem;
+    font-size: 2.0rem;
   }
 }
 
 @media only screen and (min-width: 570px) {
   .flow-text {
-    font-size: 1.368rem;
+    font-size: 2.368rem;
   }
 }
 
 @media only screen and (min-width: 600px) {
   .flow-text {
-    font-size: 1.392rem;
+    font-size: 2.392rem;
   }
 }
 
 @media only screen and (min-width: 630px) {
   .flow-text {
-    font-size: 1.416rem;
+    font-size: 2.416rem;
   }
 }
 
 @media only screen and (min-width: 660px) {
   .flow-text {
-    font-size: 1.44rem;
+    font-size: 2.44rem;
   }
 }
 
 @media only screen and (min-width: 690px) {
   .flow-text {
-    font-size: 1.464rem;
+    font-size: 2.464rem;
   }
 }
 
 @media only screen and (min-width: 720px) {
   .flow-text {
-    font-size: 1.488rem;
+    font-size: 2.488rem;
   }
 }
 
 @media only screen and (min-width: 750px) {
   .flow-text {
-    font-size: 1.512rem;
+    font-size: 2.512rem;
   }
 }
 
 @media only screen and (min-width: 780px) {
   .flow-text {
-    font-size: 1.536rem;
+    font-size: 2.536rem;
   }
 }
 
 @media only screen and (min-width: 810px) {
   .flow-text {
-    font-size: 1.56rem;
+    font-size: 2.56rem;
   }
 }
 
 @media only screen and (min-width: 840px) {
   .flow-text {
-    font-size: 1.584rem;
+    font-size: 2.584rem;
   }
 }
 
 @media only screen and (min-width: 870px) {
   .flow-text {
-    font-size: 1.608rem;
+    font-size: 2.608rem;
   }
 }
 
 @media only screen and (min-width: 900px) {
   .flow-text {
-    font-size: 1.632rem;
+    font-size: 2.632rem;
   }
 }
 
 @media only screen and (min-width: 930px) {
   .flow-text {
-    font-size: 1.656rem;
+    font-size: 2.656rem;
   }
 }
 
 @media only screen and (min-width: 960px) {
   .flow-text {
-    font-size: 1.68rem;
+    font-size: 2.68rem;
   }
 }
 
 @media only screen and (max-width: 360px) {
   .flow-text {
-    font-size: 1.2rem;
+    font-size: 2.2rem;
   }
 }
 
